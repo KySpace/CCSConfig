@@ -1,0 +1,10 @@
+# exclude everything by default
+*
+# include all directorys by default
+!*/
+# include the files we want
+!*.c
+!*.h
+!.gitignore
+!*.md
+/Debug/
