@@ -1,5 +1,5 @@
 # CCS Configure Scripts
-This project contains script that helps set up a Code Composer Studio (CCS) project with only source code. This works for CCS before version v20 (the last version is v12), where the configuration changes a lot.
+This project contains script that helps set up a Code Composer Studio (CCS) project with only source code. This works for CCS before version v20 (the last version is v12), where the configuration changes a lot. For v20, I haven't figured out what to do yet.
 ## Prerequisites
 - Microsoft PowerShell (not Windows PowerShell). Should be able to be installed on Windows and Linux. https://github.com/PowerShell/PowerShell. May need admin access, but acquiring from windows store or `winget install Microsoft.PowerShell --scope user` can bypass that.
 - Library in the right place, e.g. `TivaWare_C_Series-2.2.0.295`.
